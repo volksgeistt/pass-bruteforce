@@ -21,7 +21,7 @@ cd unlockr
 ```bash
 pip install -r requirements.txt
 ```
-*Packages Required:* `PyPDF2, msoffcrypto-tool, rarfile, py7zr, pyfiglet, colorama`
+*Packages Required:* `PyPDF2, msoffcrypto-tool, rarfile, py7zr, pyfiglet, colorama`<br>
 3. Run the script:
 ```bash
 python unlockr.py
